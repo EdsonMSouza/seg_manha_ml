@@ -1,0 +1,3 @@
+* Introdução e exercícios no ambiente do repl.it
+
+* Introdução do Github e criação de repositórios 
