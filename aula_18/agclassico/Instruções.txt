@@ -1,0 +1,2 @@
+Compilação em linha de comando:	javac -encoding UTF-8 Principal.java
+Execução: java Principal
